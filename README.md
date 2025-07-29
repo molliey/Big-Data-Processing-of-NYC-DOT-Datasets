@@ -93,11 +93,5 @@ Traffic Flow = SPEED / TRAVEL_TIME (relative)
 
 ![Traffic Data Output Example](https://github.com/user-attachments/assets/652f9762-6be9-4065-a232-f96e90e298f2)
 
-## Data Analysis
-
-![NYC Data Analysis Results](https://github.com/user-attachments/assets/a4e174b0-5c81-4840-ad25-21c3714c2867)
-
-*Results slide showing correlations among air quality, traffic patterns, and displacement risk in NYC with key findings and AQI trends*
-
 
 
