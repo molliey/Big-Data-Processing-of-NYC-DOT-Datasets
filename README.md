@@ -10,7 +10,7 @@ This project focuses on processing and analyzing various datasets including traf
 - **Description**: The dataset provides real-time New York traffic data, including speed, travel time, timestamps, boroughs, and road segment information.
 - **Size**: 1M+ rows
 
-![NYC DOT Traffic Speeds Dataset](./images/nyc_traffic_speeds.png)
+![NYC DOT Traffic Speeds Dataset](https://github.com/user-attachments/assets/aceeaf43-bd94-4d98-9745-c1f7a0107656)
 
 *NYC OpenData portal showing DOT Traffic Speeds NBE dataset with real-time traffic data including speed, travel time, and road segment information*
 
@@ -19,7 +19,7 @@ This project focuses on processing and analyzing various datasets including traf
 - **Description**: The dataset captures hourly PM2.5 levels in New York City, and real-time PM2.5 air quality data from 14 monitoring sites.
 - **Size**: 20,000 rows
 
-![NYC PM2.5 Air Quality Dashboard](./images/nyc_pm25_dashboard.png)
+![NYC PM2.5 Air Quality Dashboard](https://github.com/user-attachments/assets/f388c7d0-4970-4588-8ee8-60b2cf575987)
 
 *NYC PM2.5 Air Quality Dashboard showing hourly trends, geographic distribution of monitoring sites, and compliance with NAAQS 24-hour standard (35 µg/m³)*
 
@@ -28,13 +28,13 @@ This project focuses on processing and analyzing various datasets including traf
 - **Description**: The dataset combines multiple factors to evaluate the risk of residents being displaced from their neighborhoods. Factors include population vulnerability, housing conditions, market pressure, various socioeconomic indicators.
 - **Size**: 195 rows, 31 columns
 
-![NYC Displacement Risk Map](./images/nyc_displacement_risk.png)
+![NYC Displacement Risk Map](https://github.com/user-attachments/assets/481c4975-04c5-4e6d-aa49-10573040f99f)
 
 *NYC Equitable Development Data Explorer showing displacement risk map with color-coded neighborhoods indicating risk levels from highest (dark purple) to lowest (light pink)*
 
 ## Data Pipeline
 
-![Data Processing and Analysis Workflow](./images/data_workflow.png)
+![Data Processing and Analysis Workflow](https://github.com/user-attachments/assets/0f9da805-28e5-4706-9f7d-3aee04901f98)
 
 *Data Processing and Analysis Workflow showing the five-step pipeline from geographic mapping to insights generation*
 
@@ -68,6 +68,8 @@ This project focuses on processing and analyzing various datasets including traf
 
 - **report_tableau.twb**: Tableau workbook with comprehensive data visualizations
 
+![Data Visualization Example] https://github.com/user-attachments/assets/6ba4103f-ae53-4cbd-bf82-d1e14fb897cf"
+
 ### NYC DOT Datasets
 
 **Input:** Cleaned traffic data with the following fields:
@@ -77,8 +79,7 @@ This project focuses on processing and analyzing various datasets including traf
 - **BOROUGH**: The borough in New York City (e.g., Manhattan, Bronx).
 - **LINK_NAME**: A description of the road segment.
 
-![Traffic Data Input Example](./images/traffic_input.png)
-*Example of the cleaned NYC DOT Traffic Speeds dataset input.*
+![Traffic Data Input Example](https://github.com/user-attachments/assets/3b2a067d-e6ff-43b8-9b3a-8130393e0c55)
 
 **Processing:**
 Utilized Hadoop MapReduce to processe the input data to calculate relative hourly average traffic flow for each road segment and borough.
@@ -91,7 +92,6 @@ Traffic Flow = SPEED / TRAVEL_TIME (relative)
 **Output:** Aggregated hourly traffic flow statistics for each BOROUGH and LINK_NAME.
 
 ![Traffic Data Output Example](https://github.com/user-attachments/assets/652f9762-6be9-4065-a232-f96e90e298f2)
-*Example of the processed traffic flow output, showing aggregated hourly statistics.*
 
 ## Data Analysis
 
