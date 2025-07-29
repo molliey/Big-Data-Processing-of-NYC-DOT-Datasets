@@ -90,7 +90,7 @@ Traffic Flow = SPEED / TRAVEL_TIME (relative)
 
 **Output:** Aggregated hourly traffic flow statistics for each BOROUGH and LINK_NAME.
 
-![Traffic Data Output Example](<img width="871" height="890" alt="Image" src="https://github.com/user-attachments/assets/652f9762-6be9-4065-a232-f96e90e298f2" />)
+![Traffic Data Output Example](https://github.com/user-attachments/assets/652f9762-6be9-4065-a232-f96e90e298f2)
 *Example of the processed traffic flow output, showing aggregated hourly statistics.*
 
 ## Data Analysis
