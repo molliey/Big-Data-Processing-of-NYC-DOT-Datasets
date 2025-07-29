@@ -68,7 +68,7 @@ This project focuses on processing and analyzing various datasets including traf
 
 - **report_tableau.twb**: Tableau workbook with comprehensive data visualizations
 
-![Data Visualization Example] https://github.com/user-attachments/assets/6ba4103f-ae53-4cbd-bf82-d1e14fb897cf"
+![Data Visualization Example](https://github.com/user-attachments/assets/6ba4103f-ae53-4cbd-bf82-d1e14fb897cf)
 
 ### NYC DOT Datasets
 
@@ -95,7 +95,7 @@ Traffic Flow = SPEED / TRAVEL_TIME (relative)
 
 ## Data Analysis
 
-![NYC Data Analysis Results](./images/analysis_results.png)
+![NYC Data Analysis Results](https://github.com/user-attachments/assets/a4e174b0-5c81-4840-ad25-21c3714c2867)
 
 *Results slide showing correlations among air quality, traffic patterns, and displacement risk in NYC with key findings and AQI trends*
 
