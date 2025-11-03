@@ -1,6 +1,8 @@
 # Big Data Processing of NYC DOT Datasets
 
-This project focuses on processing and analyzing various datasets including traffic flow, air quality, and resident condition data to identify correlations. The project implements big data processing techniques using Hadoop MapReduce and provides data visualization using Tableau.
+This project focuses on processing and analyzing various NYC datasets including traffic flow, air quality, and resident condition data to identify correlations. 
+
+The project implements big data processing techniques using Hadoop MapReduce and provides data visualization using Tableau.
 
 
 ## Data Sources
