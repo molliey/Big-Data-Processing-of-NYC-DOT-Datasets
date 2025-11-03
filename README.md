@@ -8,7 +8,7 @@ The project implements big data processing techniques using Hadoop MapReduce and
 ## Data Sources
 
 ### DOT Traffic Speeds NBE
-- **Source**: https://[data.cityofnewyork.us/Transportation/DOT-Traffic-Speeds-NBE/i4gi-tjb9/about_data](https://data.cityofnewyork.us/Transportation/DOT-Traffic-Speeds-NBE/i4gi-tjb9/about_data)
+- **Source**: [https://[data.cityofnewyork.us/Transportation/DOT-Traffic-Speeds-NBE/i4gi-tjb9/about_data](https://data.cityofnewyork.us/Transportation/DOT-Traffic-Speeds-NBE/i4gi-tjb9/about_data)](https://data.cityofnewyork.us/Transportation/DOT-Traffic-Speeds-NBE/i4gi-tjb9/about_data)
 - **Description**: The dataset provides real-time New York traffic data, including speed, travel time, timestamps, boroughs, and road segment information.
 - **Size**: 1M+ rows
 
